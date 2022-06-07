@@ -21,3 +21,32 @@ int findMajorityElement(int arr[], int n) {
     
     return -1;
 }
+
+
+
+**************************************(Better solution)*********************************************************************************
+
+#include <bits/stdc++.h> 
+int findMajorityElement(int arr[], int n) {
+    int ele=arr[0];
+    int count=1;
+    
+    for(int i=1;i<n;i++){
+        if(ele!=arr[i])
+            count--;
+        else
+            count++;
+        if(count==0){
+            ele=arr[i];
+            count=1;
+        }
+    }
+    
+    count=0;
+    for(int i=0;i<n;i++)
+        if(ele==arr[i])count++;
+    
+    if(count>n/2) return ele;
+    
+    return -1;
+}
