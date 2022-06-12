@@ -6,4 +6,8 @@
 <h2><a href="https://www.codingninjas.com/codestudio/problems/middle-of-linked-list_973250?topList=striver-sde-sheet-problems">Middle Of Linked List</a></h2><h3>Easy</h3><hr>
 <br>
 <h2><a href="https://www.codingninjas.com/codestudio/problems/longest-unique-substring_630418?topList=striver-sde-sheet-problems&leftPanelTab=0">Longest Substring Without Repeating Characters</a></h2><h3>Medium</h3><hr>
+<br>
+<h2><a href="https://www.codingninjas.com/codestudio/problems/remove-duplicates-from-sorted-array_1102307?topList=striver-sde-sheet-problems&leftPanelTab=0">Remove Duplicates from Sorted Array</a></h2><h3>Easy</h3><hr>
+<br>
+
 
