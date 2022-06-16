@@ -9,9 +9,11 @@ SDE_Sheet Started on 07-June-2022
   <tr>
     <th>Number of Days</th>
     <th>Number of questions</th>
+    <th>Topics Done</th>
   </tr>
   
   <tr>
-    <td>5'th day</td>
-    <td> </td>
+    <td>10 days</td>
+    <td>26</td>
+    <td>Array , Linked-List </td>
   </tr>
