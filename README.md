@@ -15,5 +15,10 @@ SDE_Sheet Started on 07-June-2022
   <tr>
     <td>10 days</td>
     <td>26</td>
-    <td>Array , Linked-List </td>
+    <td>
+      <ul>
+        <li>Array </li>
+        <li>Linked-List</li>
+      </ul>
+    </td>
   </tr>
