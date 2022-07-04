@@ -24,5 +24,7 @@ SDE_Sheet Started on 07-June-2022
   </tr>
   
   <tr>
+    <td></td>
     <td><strong>End-Sem exam Break</strong></td>
+    <td></td>
   </tr>
