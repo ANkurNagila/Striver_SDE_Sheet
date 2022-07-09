@@ -28,3 +28,19 @@ SDE_Sheet Started on 07-June-2022
     <td><strong>End-Sem exam Break</strong></td>
     <td></td>
   </tr>
+  
+  
+  <tr>
+    <td>33 days</td>
+    <td>70</td>
+    <td>
+      <ul>
+        <li>Array </li>
+        <li>Linked-List</li>
+        <li>Trees</li>
+        <li>String</li>
+        <li>Recursion</li>
+        <li>Dynammic-Programming</li>
+      </ul>
+    </td>
+  </tr>
