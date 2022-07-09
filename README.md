@@ -32,7 +32,7 @@ SDE_Sheet Started on 07-June-2022
   
   <tr>
     <td>33 days</td>
-    <td>70</td>
+    <td>66</td>
     <td>
       <ul>
         <li>Array </li>
